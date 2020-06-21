@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: c9ae0a84a14cb4942b22a4f6b7566180
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6365309893981296162
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_0
+  - first:
+      213: 8268268633794883399
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_1
+  - first:
+      213: -7339746458312729772
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_2
+  - first:
+      213: -191007736021424584
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_3
+  - first:
+      213: 110254723089125600
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_4
+  - first:
+      213: -1296517401824960670
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_5
+  - first:
+      213: 6351738166834500742
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_6
+  - first:
+      213: -5066960261232820980
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_7
+  - first:
+      213: 3967339679514789454
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_8
+  - first:
+      213: 7591000521308715801
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_9
+  - first:
+      213: 2064791968900198415
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_10
+  - first:
+      213: 8607792503338489713
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_11
+  - first:
+      213: -1927230789791993044
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_12
+  - first:
+      213: 1745151285402779389
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_13
+  - first:
+      213: -8219005018111187951
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_14
+  - first:
+      213: 9018034769098744634
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_15
+  - first:
+      213: -3753346638590519933
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_16
+  - first:
+      213: -4004768242460871537
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_17
+  - first:
+      213: -6335036966343249253
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_18
+  - first:
+      213: -4611685069301896004
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_19
+  - first:
+      213: -346082116589388721
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_20
+  - first:
+      213: -1968665296816608579
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_21
+  - first:
+      213: -8973358136241448721
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_22
+  - first:
+      213: 2145288221953929699
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_23
+  - first:
+      213: 4508955088077825007
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_24
+  - first:
+      213: -4493888128149012233
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_25
+  - first:
+      213: -7193718916543811649
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_26
+  - first:
+      213: 7250656318364170950
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_27
+  - first:
+      213: 9057190519403975678
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_28
+  - first:
+      213: -4893440347676240966
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_29
+  - first:
+      213: 2539296527103636986
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_30
+  - first:
+      213: 3860532964870434360
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_31
+  - first:
+      213: 3914165532376506176
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_32
+  - first:
+      213: 4887736212868871141
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_33
+  - first:
+      213: 2266973975001758084
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_34
+  - first:
+      213: -8542840146088682933
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_35
+  - first:
+      213: 5513875272933967931
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_36
+  - first:
+      213: 7113351910652589375
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_37
+  - first:
+      213: 1144808339878734455
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_38
+  - first:
+      213: 9049090594657066188
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_39
+  - first:
+      213: -4019091026735179682
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_40
+  - first:
+      213: -2642654024431616651
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_41
+  - first:
+      213: 3133348733922698758
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_42
+  - first:
+      213: 6139796400050364651
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_43
+  - first:
+      213: 8807821258973828217
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_44
+  - first:
+      213: -7332046100042299337
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_45
+  - first:
+      213: 13289605902815161
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_46
+  - first:
+      213: -4537894084174017107
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_47
+  - first:
+      213: 7134543924991505086
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_48
+  - first:
+      213: -6889765264536029457
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_49
+  - first:
+      213: -6503798205924587406
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_50
+  - first:
+      213: -234361056887642373
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_51
+  - first:
+      213: -3073069951707167965
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_52
+  - first:
+      213: 3420593831470448225
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_53
+  - first:
+      213: -6904080485123412606
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_54
+  - first:
+      213: -7055809529631956577
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_55
+  - first:
+      213: -227973961841468081
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_56
+  - first:
+      213: -3722068294750275634
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_57
+  - first:
+      213: 1057977001205807431
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_58
+  - first:
+      213: -1617348825792682111
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_59
+  - first:
+      213: 4531203128826512677
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_60
+  - first:
+      213: -5934388563046932518
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_61
+  - first:
+      213: 7665162601924899008
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_62
+  - first:
+      213: -3015124077830671580
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_63
+  - first:
+      213: 8362511416543843758
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_64
+  - first:
+      213: -4588512777451376100
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_65
+  - first:
+      213: 7624085247587602962
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_66
+  - first:
+      213: -1276608422862150605
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_67
+  - first:
+      213: -8185395002127691546
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_68
+  - first:
+      213: -3548563210974105281
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_69
+  - first:
+      213: -8221573302793186212
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_70
+  - first:
+      213: -9181811942100723604
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_71
+  - first:
+      213: -5606100607917647134
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_72
+  - first:
+      213: 5102500694388467124
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_73
+  - first:
+      213: -1512630540502791630
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_74
+  - first:
+      213: -3820390772881777960
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_75
+  - first:
+      213: -9160842371432344152
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_76
+  - first:
+      213: 4238870481050081717
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_77
+  - first:
+      213: -6333183734951058620
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_78
+  - first:
+      213: 9094527680814469919
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_79
+  - first:
+      213: 554525976085435428
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_80
+  - first:
+      213: 370641800475044296
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_81
+  - first:
+      213: -9173645975106093177
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_82
+  - first:
+      213: 4291809612018415743
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_83
+  - first:
+      213: 8218939604218118462
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_84
+  - first:
+      213: 4093359421912500489
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_85
+  - first:
+      213: 4336919444978152746
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_86
+  - first:
+      213: -4337286836154215693
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_87
+  - first:
+      213: 1353729570459964912
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_88
+  - first:
+      213: -2044797528964859969
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_89
+  - first:
+      213: 8387883763378165302
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_90
+  - first:
+      213: -2890224239310990670
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_91
+  - first:
+      213: 6181588378608853309
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_92
+  - first:
+      213: -5785413590358226368
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_93
+  - first:
+      213: -7916757127042952048
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_94
+  - first:
+      213: 3640554564801933260
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_95
+  - first:
+      213: -5771083734984421197
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_96
+  - first:
+      213: -1561167142166954519
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_97
+  - first:
+      213: 8084210750341970064
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_98
+  - first:
+      213: 1710553284192083063
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_99
+  - first:
+      213: 5887924368718107966
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_100
+  - first:
+      213: 8907723118047370388
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_101
+  - first:
+      213: 6901248709261224946
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_102
+  - first:
+      213: -973542602604627590
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_103
+  - first:
+      213: 7914909046681674966
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_104
+  - first:
+      213: -8528225990366642071
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_105
+  - first:
+      213: 7355183316517260382
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_106
+  - first:
+      213: 8732584485351106983
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_107
+  - first:
+      213: -1834048671570937457
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_108
+  - first:
+      213: -7206721866124423348
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_109
+  - first:
+      213: 2504833135995931056
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_110
+  - first:
+      213: -770874525422415079
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_111
+  - first:
+      213: 25148395662005132
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_112
+  - first:
+      213: -231296327533488941
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_113
+  - first:
+      213: -723075892296380542
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_114
+  - first:
+      213: -8156002175629359056
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_115
+  - first:
+      213: 2563168061817326642
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_116
+  - first:
+      213: 8514208276579677232
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_117
+  - first:
+      213: 5341135345385022880
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_118
+  - first:
+      213: -5143262301148770458
+    second: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 406
+        width: 241
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed927f35060e9a7a0800000000000000
+      internalID: -6365309893981296162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 406
+        width: 242
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f29d8e38aceb270800000000000000
+      internalID: 8268268633794883399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 136
+        width: 242
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b96dadb7bf32a90800000000000000
+      internalID: -7339746458312729772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 271
+        width: 239
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366711e977695df0800000000000000
+      internalID: -191007736021424584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby Sapphire - Battle Arenas_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 271
+        width: 242
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e059842614b78100800000000000000
+      internalID: 110254723089125600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
