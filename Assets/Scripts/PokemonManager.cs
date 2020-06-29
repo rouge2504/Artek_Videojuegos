@@ -20,6 +20,8 @@ public class PokemonManager : MonoBehaviour
         backImageSprite.sprite = misPokemon[iterador].backImage;
 
         statusPlayer.nombre.text = misPokemon[iterador].name;
+        statusPlayer.nombre.text = misPokemon[iterador].name;
+        statusPlayer.SetHPBar(misPokemon[iterador].vidaMax, misPokemon[iterador].vidaRestante);
 
         print("Largo del arreglo: " + misPokemon.Length);
 
@@ -38,6 +40,7 @@ public class PokemonManager : MonoBehaviour
             iterador--;
             backImageSprite.sprite = misPokemon[iterador].backImage;
             statusPlayer.nombre.text = misPokemon[iterador].name;
+            statusPlayer.SetHPBar(misPokemon[iterador].vidaMax, misPokemon[iterador].vidaRestante);
             print("Aprentando tecla");
         }
 
@@ -46,6 +49,7 @@ public class PokemonManager : MonoBehaviour
             iterador++;
             backImageSprite.sprite = misPokemon[iterador].backImage;
             statusPlayer.nombre.text = misPokemon[iterador].name;
+            statusPlayer.SetHPBar(misPokemon[iterador].vidaMax, misPokemon[iterador].vidaRestante);
             print("Aprentando tecla");
         }
 

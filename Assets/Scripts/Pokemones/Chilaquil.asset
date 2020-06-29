@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: Chilaquil
   m_EditorClassIdentifier: 
   name: Chilaquil
+  vidaMax: 15
+  vidaRestante: 12
   nivel: 5
   ataque: 0
   defensa: 0

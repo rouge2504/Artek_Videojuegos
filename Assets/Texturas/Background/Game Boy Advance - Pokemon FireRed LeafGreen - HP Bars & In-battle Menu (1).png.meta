@@ -490,6 +490,22 @@ TextureImporter:
       213: 3222031934809085037
     second: Game Boy Advance - Pokemon FireRed LeafGreen - HP Bars & In-battle Menu
       (1)_121
+  - first:
+      213: 7694711261501754310
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - HP Bars & In-battle Menu
+      (1)_122
+  - first:
+      213: 3045845024561229697
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - HP Bars & In-battle Menu
+      (1)_123
+  - first:
+      213: 3727229779610709991
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - HP Bars & In-battle Menu
+      (1)_124
+  - first:
+      213: -4893413868849388191
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - HP Bars & In-battle Menu
+      (1)_125
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -3192,7 +3208,7 @@ TextureImporter:
         width: 9
         height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3214,7 +3230,7 @@ TextureImporter:
         width: 9
         height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3236,7 +3252,7 @@ TextureImporter:
         width: 9
         height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3258,7 +3274,7 @@ TextureImporter:
         width: 9
         height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3266,6 +3282,94 @@ TextureImporter:
       bones: []
       spriteID: d64924149f4f6bc20800000000000000
       internalID: 3222031934809085037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - HP Bars & In-battle Menu
+        (1)_122
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 284
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb820fbf1b19ca60800000000000000
+      internalID: 7694711261501754310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - HP Bars & In-battle Menu
+        (1)_123
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 280
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fecd989e3054a20800000000000000
+      internalID: 3045845024561229697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - HP Bars & In-battle Menu
+        (1)_124
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 276
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef24f1acb7c9b330800000000000000
+      internalID: 3727229779610709991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - HP Bars & In-battle Menu
+        (1)_125
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 272
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1652340430a171cb0800000000000000
+      internalID: -4893413868849388191
       vertices: []
       indices: 
       edges: []

@@ -7,6 +7,8 @@ using UnityEngine;
 public class TemplatePokemon : ScriptableObject
 {
     public string name;
+    public int vidaMax;
+    public int vidaRestante;
     public int nivel;
     public int ataque;
     public int defensa;
