@@ -28,8 +28,5 @@ public class ContenedorPokemon : MonoBehaviour
         
     }
 
-    public void ApretandoBoton(string contenedor)
-    {
-        print(contenedor);
-    }
+
 }
