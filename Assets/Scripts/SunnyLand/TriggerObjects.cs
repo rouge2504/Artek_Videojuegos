@@ -20,7 +20,7 @@ public class TriggerObjects : MonoBehaviour
     {
         if (col.name == "Player")
         {
-            PlayerController.instance.cherryPoints++;
+            PlayerController.instance.AddPoints();
             //Destroy(this.gameObject);
             this.gameObject.SetActive(false);
         }
