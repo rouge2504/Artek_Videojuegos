@@ -4,11 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/SunnyLand.unity
-    guid: 772927e9d68d74149af13c3a26ba4b78
-  - enabled: 1
-    path: Assets/Scenes/Escenario2.unity
-    guid: ed0cc389a32c3ae468b4c6925a496bf3
+  m_Scenes: []
   m_configObjects: {}
